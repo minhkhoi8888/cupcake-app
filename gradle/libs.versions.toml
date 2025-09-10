@@ -1,0 +1,5 @@
+[versions]
+lifecycle = "2.5.1"
+
+[libraries]
+viewmodal-compose-ktx = "androidx.lifecycle:lifecycle-viewmodel-compose:${versions.lifecycle}"
